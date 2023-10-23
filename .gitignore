@@ -4,3 +4,5 @@
 *.bin
 *.img
 *.log
+tools/buildflat
+tools/builddisk
